@@ -1,0 +1,52 @@
+* {
+  background-color: rgb(255, 0, 76); ;  
+  padding: 0 ;
+  margin: 0 auto;
+
+}
+/* Estilo da Paginha*/
+
+.menu {
+    margin-top: auto; 
+    width: 100%;
+    height: 100px;
+    background:black;
+    padding:0 ;
+    text-align: center;
+    font-family:Girasol;
+
+}
+
+.menu  a {
+    text-decoration: none;
+    background:black;
+    font-size: 20px;
+    color: rgb(130, 29, 161);
+    margin: 0 20px;
+    font-family: Girassol;
+  
+}
+
+.parte2 {
+  text-align: center;
+  padding:25px;
+  color: rgb(7, 9, 14);
+  font-family:anton;
+}
+
+.lista {
+  left: 20px;
+  list-style-position:inside;
+  list-style-type:circle;
+  margin-left: 20px;
+
+}
+
+.lista li {
+  padding: 6px;
+  margin: auto;
+  left: 20px;
+  font-size: 18px;
+  color: #030c14ec;
+
+}
